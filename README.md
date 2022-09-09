@@ -2,7 +2,7 @@
 # Hi there!
 
 
-I'm a software developer working with Overactive. 
+I'm a software developer working with Wizeline. 
 
 ❤️  ........ React | Flutter
 <br/>
